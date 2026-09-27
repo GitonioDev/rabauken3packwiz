@@ -1,0 +1,8 @@
+name = "clear-glass"
+filename = "Clear.Glass.Pack.26.2.zip"
+side = "both"
+
+[download]
+url = "https://github.com/GitonioDev/rabauken3packwiz/releases/download/1.0.0/Clear.Glass.Pack.26.2.zip"
+hash-format = "sha256"
+hash = "d8d2121517aaeef81e4d5ec41af5c1a93fe10fde47fad1a8eaf2fe6afb91d9da"

@@ -1,18 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
-metafile = true
-
-[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "21cfc45140fdbf78395734d762191b951c13b92023898d7316dff057d4860bd2"
 metafile = true
 
 [[files]]
-file = "mods/cat-eyes-night-vision-toggle-mod.pw.toml"
-hash = "8daeb8578e20024b840bd3fdf9c3ad976f8beb666be149f2fdf93d92b7613787"
+file = "mods/cat-eyes.pw.toml"
+hash = "bf7f18873bc42c6b80af8cb5f05a946dee7803dc892a72a117058dc83521578a"
 metafile = true
 
 [[files]]
@@ -27,17 +22,17 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b7950b952f428b224e49deb842bd2c5ef2885e694e084c6f4b08261c706fe027"
+hash = "c4b3f019cbc670e100084a4dd525a43f3f7252dfab731851f662d4b43383941f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3b615694b633006198041ee97429408f2325e81b63f8d2778188d60204e6b7a1"
+hash = "dd28cb5dd2213f840cd8b1981c499b6f688b1080c34ccde51d6a9c0787574794"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2877c92939db04cc8c107a936971fdb82da7d159ab69451563df932d53c0b66a"
+hash = "73408d8e34100bf324bb5f2e51b819b4326b2df5dae14b7de14f8bbb12cc430a"
 metafile = true
 
 [[files]]
@@ -117,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/wi-zoom.pw.toml"
-hash = "f5dd667b721fb22c3f5c258bb07fcd4bb381784b5e37769584bd0df8d50cb9fd"
+hash = "c5240a6166bbddebeff2683283e99a83db03924ce3e31119b154d277e0dcab13"
 metafile = true
 
 [[files]]
@@ -131,8 +126,8 @@ hash = "51e6b99f1a5aa1d3ec8ab6d2e4f1e11f86face7f579efaa66a5d295fdb11d620"
 metafile = true
 
 [[files]]
-file = "resourcepacks/clear-glass-pack.pw.toml"
-hash = "0b235343069ca53e00fd1e4c486ba091a96a3aa6db6f33b4e4c0b4db382dde58"
+file = "resourcepacks/clear-glass.pw.toml"
+hash = "446518a8a1cd4f899705041849c00c187f15906326caf2a9fa595e8fcfa7a570"
 metafile = true
 
 [[files]]
@@ -148,3 +143,8 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "37bdf89f3624af8bda9e5a2dfd7b5472039055199ae8e218f5d160609cdc890a"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
+metafile = true

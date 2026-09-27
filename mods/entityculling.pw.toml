@@ -1,13 +1,8 @@
-name = "Entity Culling Fabric/Forge"
+name = "entityculling"
 filename = "entityculling-fabric-1.11.2-mc26.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8a379bf40ab7125756afe7bbdf9501324bc37216"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8942322
-project-id = 448233
+url = "https://github.com/GitonioDev/rabauken3packwiz/releases/download/1.0.0/entityculling-fabric-1.11.2-mc26.2.jar"
+hash-format = "sha256"
+hash = "ed48546f952edfbb4673aa44968650cc5966a573d2e64e727f58e11cbc36cf31"
