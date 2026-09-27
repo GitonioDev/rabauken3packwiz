@@ -26,6 +26,11 @@ hash = "e124e860800519268885c921eef99b27ea438bac3768425799522e0ab29b2786"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b7950b952f428b224e49deb842bd2c5ef2885e694e084c6f4b08261c706fe027"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "3b615694b633006198041ee97429408f2325e81b63f8d2778188d60204e6b7a1"
 metafile = true
@@ -111,6 +116,11 @@ hash = "6498964aef3c1cb63466bf680d6e52b134c1288a33dc6597f990892b60a2b005"
 metafile = true
 
 [[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "f5dd667b721fb22c3f5c258bb07fcd4bb381784b5e37769584bd0df8d50cb9fd"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "312fa855f9d5c63e06d0cc7a28c74ead67ec27bdb41c34b23ccc4ce490da9103"
 metafile = true
@@ -118,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "51e6b99f1a5aa1d3ec8ab6d2e4f1e11f86face7f579efaa66a5d295fdb11d620"
+metafile = true
+
+[[files]]
+file = "resourcepacks/clear-glass-pack.pw.toml"
+hash = "0b235343069ca53e00fd1e4c486ba091a96a3aa6db6f33b4e4c0b4db382dde58"
 metafile = true
 
 [[files]]
