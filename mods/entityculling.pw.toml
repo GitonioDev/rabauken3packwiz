@@ -1,8 +1,13 @@
-name = "entityculling"
+name = "Entity Culling"
 filename = "entityculling-fabric-1.11.2-mc26.2.jar"
-side = "both"
+side = "client"
 
 [download]
-url = "https://github.com/GitonioDev/rabauken3packwiz/releases/download/1.0.0/entityculling-fabric-1.11.2-mc26.2.jar"
-hash-format = "sha256"
-hash = "ed48546f952edfbb4673aa44968650cc5966a573d2e64e727f58e11cbc36cf31"
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/RWjup6Jf/entityculling-fabric-1.11.2-mc26.2.jar"
+hash-format = "sha512"
+hash = "4562dd16ce9213959c41fe58a3dd73a95c9ab9095a0fc7fbaa752b6ce3433fbef5063e7f5f2634b1ff34499261f48d31e878306dac8701425af1d50e726e53fd"
+
+[update]
+[update.modrinth]
+mod-id = "NNAgCjsB"
+version = "RWjup6Jf"

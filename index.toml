@@ -6,8 +6,8 @@ hash = "21cfc45140fdbf78395734d762191b951c13b92023898d7316dff057d4860bd2"
 metafile = true
 
 [[files]]
-file = "mods/cat-eyes-night-vision-toggle-mod.pw.toml"
-hash = "8daeb8578e20024b840bd3fdf9c3ad976f8beb666be149f2fdf93d92b7613787"
+file = "mods/cat-eyes.pw.toml"
+hash = "bf7f18873bc42c6b80af8cb5f05a946dee7803dc892a72a117058dc83521578a"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "c4b3f019cbc670e100084a4dd525a43f3f7252dfab731851f662d4b43383941f"
+hash = "9ccaa582844d45222581b90ca5ce61acf117408c635b904673e1c4d89969f40b"
 metafile = true
 
 [[files]]
