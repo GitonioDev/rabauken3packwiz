@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "992c115e7a4b64cdacaefb26c240dbd246dd63dcf9c5c990f58208708a08240d"
 
 [[files]]
 file = "mods/armor-poser.pw.toml"
