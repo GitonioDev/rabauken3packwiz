@@ -11,6 +11,11 @@ hash = "21cfc45140fdbf78395734d762191b951c13b92023898d7316dff057d4860bd2"
 metafile = true
 
 [[files]]
+file = "mods/cat-eyes-night-vision-toggle-mod.pw.toml"
+hash = "8daeb8578e20024b840bd3fdf9c3ad976f8beb666be149f2fdf93d92b7613787"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "d08b95b11068dffdcc4390116f6a180266b7a3ce5afb9af0a3ed3a3adc31a432"
 metafile = true
