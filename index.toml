@@ -1,8 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "21cfc45140fdbf78395734d762191b951c13b92023898d7316dff057d4860bd2"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "1d38d983a437afcbecb23a0dba5d9771ca32de4d0e027833c8ad20a7a5011cc1"
 metafile = true
 
 [[files]]
