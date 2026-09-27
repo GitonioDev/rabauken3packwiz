@@ -1,0 +1,13 @@
+name = "Visible Ores Plus"
+filename = "VISIBLE ORES PLUS v1.19.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b70239108344dfdf533981f30f64d4d6c625bbbe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8831982
+project-id = 1173364

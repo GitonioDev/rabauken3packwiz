@@ -1,0 +1,13 @@
+name = "Armor Poser"
+filename = "ArmorPoser-fabric-26.2-15.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "44300e5ca037a2fb994de79e02784f991caf51ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8618203
+project-id = 450663

@@ -1,0 +1,13 @@
+name = "Cat Eyes - Night Vision Toggle Mod (Fabric)"
+filename = "CatEyes-v8_Fabric-26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09d943b234612757553a0e3eaa2a01b6e8ea153e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8510901
+project-id = 526491

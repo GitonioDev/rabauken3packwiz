@@ -1,0 +1,150 @@
+hash-format = "sha256"
+
+[[files]]
+file = "complementary-reimagined.pw.toml"
+hash = "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
+metafile = true
+
+[[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "21cfc45140fdbf78395734d762191b951c13b92023898d7316dff057d4860bd2"
+metafile = true
+
+[[files]]
+file = "mods/cat-eyes-night-vision-toggle-mod.pw.toml"
+hash = "8daeb8578e20024b840bd3fdf9c3ad976f8beb666be149f2fdf93d92b7613787"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "d08b95b11068dffdcc4390116f6a180266b7a3ce5afb9af0a3ed3a3adc31a432"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "e124e860800519268885c921eef99b27ea438bac3768425799522e0ab29b2786"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b7950b952f428b224e49deb842bd2c5ef2885e694e084c6f4b08261c706fe027"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3b615694b633006198041ee97429408f2325e81b63f8d2778188d60204e6b7a1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "2877c92939db04cc8c107a936971fdb82da7d159ab69451563df932d53c0b66a"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "9ca046d9f6700d5af540f3d557eb356d5c8c5bc1007e6fe957168f7d4638c3c4"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d0d32a4cf3915c836d6966c97d5f4944e2717d2f6bedcd479bb3ab00a3cd1c9b"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "0eb033be0378e2fc26d8682099544273a2c2f54b7f7010bc59f380ffb1a45817"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "df54ce4f85c775f6903a740a267e0f78e2d7042ada1497beb8740bed4bc26d69"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "bfea1b95fa675c190cc147fd09098103fc7940ff2fd9ea54762c5b9ece5ac5c5"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "aabea8067dc0c6babeaf81aa13791d174d973d94ece47ad0428f89ce9406874a"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "10982cea64dd3b814def96e33540fd930b15b536ed25eacba25d80f3514aa035"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "7db560646d7ddb7786b48647054466773905f420d145833ca560141d075abf40"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "2853a89c68450ab1d53a3e190fd8369b51dcb18632c9d460931a153d9662839b"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d822c8973069f22c58de98709f3b0186488924a275901d9167ed235dd2965f61"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "13e43a47bf14e51be8d6abf7d6f917393b8af649316ad88c7f0eefe5ca21b518"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "c34b74293f07140fa3570e9d4efe01fce4ed39e3f2139828df660f0f669486e0"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "f7483f8c8e57f22e01d18aa036189f2ad1d66c4fd245b4182be2bb93d3898956"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "1dbf2d33a89fc4277dc26d58ee0a579117a52e80413fdb599c3176760520888e"
+metafile = true
+
+[[files]]
+file = "mods/text-placeholder-api.pw.toml"
+hash = "6498964aef3c1cb63466bf680d6e52b134c1288a33dc6597f990892b60a2b005"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "f5dd667b721fb22c3f5c258bb07fcd4bb381784b5e37769584bd0df8d50cb9fd"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "312fa855f9d5c63e06d0cc7a28c74ead67ec27bdb41c34b23ccc4ce490da9103"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "51e6b99f1a5aa1d3ec8ab6d2e4f1e11f86face7f579efaa66a5d295fdb11d620"
+metafile = true
+
+[[files]]
+file = "resourcepacks/clear-glass-pack.pw.toml"
+hash = "0b235343069ca53e00fd1e4c486ba091a96a3aa6db6f33b4e4c0b4db382dde58"
+metafile = true
+
+[[files]]
+file = "resourcepacks/motschens-better-leaves.pw.toml"
+hash = "8dfb9c20ca9bb8ef35db6edbfbd5d4a0bebeb6c74d1a4abc62fb64e4508c1f7b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visible-ores-plus.pw.toml"
+hash = "27f82f2945bf2074469d67a0cf70b0a3103750d54e279547ff7c405172ca4385"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "37bdf89f3624af8bda9e5a2dfd7b5472039055199ae8e218f5d160609cdc890a"
