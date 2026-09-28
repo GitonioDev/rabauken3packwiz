@@ -5,6 +5,14 @@ file = "config/bcc-common.json"
 hash = "2fbaea93bb0fb09a7f38748660e6a3b7b53b3ba09b45e2f1b73b0a5681012549"
 
 [[files]]
+file = "defaultconfigs/inventoryprofilesnext/inventoryprofiles.json"
+hash = "377c3fb857c5be7c1fa2ff112592021a96508c7a72d4dc65ad5f49aef6296c8a"
+
+[[files]]
+file = "defaultconfigs/iris.properties"
+hash = "6cf8e29e20b32ce84a0fd9fd88a3e61d77caa30f7e1baccd0bf06c3a5fbae6d5"
+
+[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "21cfc45140fdbf78395734d762191b951c13b92023898d7316dff057d4860bd2"
 metafile = true
