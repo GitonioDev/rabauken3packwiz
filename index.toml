@@ -5,6 +5,18 @@ file = "config/bcc-common.json"
 hash = "992c115e7a4b64cdacaefb26c240dbd246dd63dcf9c5c990f58208708a08240d"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "12325141e47c98243c46b1a40b031945c65bd3877a969fd6a15f107272c0cc92"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "b8250b0864adca3a9cf2d7d6d1e84339e199bc27085e064393e0edfb89490774"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "37bdf89f3624af8bda9e5a2dfd7b5472039055199ae8e218f5d160609cdc890a"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "377c3fb857c5be7c1fa2ff112592021a96508c7a72d4dc65ad5f49aef6296c8a"
 
@@ -15,6 +27,11 @@ hash = "6cf8e29e20b32ce84a0fd9fd88a3e61d77caa30f7e1baccd0bf06c3a5fbae6d5"
 [[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "21cfc45140fdbf78395734d762191b951c13b92023898d7316dff057d4860bd2"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "9648ffb51f14f959cc6a22d8ff7f2d126a31c22f17fdc857bd3adb90205b8a8b"
 metafile = true
 
 [[files]]
@@ -30,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "d08b95b11068dffdcc4390116f6a180266b7a3ce5afb9af0a3ed3a3adc31a432"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "88ae42c2a5b09e5487959d55086e5dce892015df9d9f47766e5aea4462772c04"
 metafile = true
 
 [[files]]
@@ -156,10 +178,6 @@ metafile = true
 file = "resourcepacks/visible-ores-plus.pw.toml"
 hash = "27f82f2945bf2074469d67a0cf70b0a3103750d54e279547ff7c405172ca4385"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "37bdf89f3624af8bda9e5a2dfd7b5472039055199ae8e218f5d160609cdc890a"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
