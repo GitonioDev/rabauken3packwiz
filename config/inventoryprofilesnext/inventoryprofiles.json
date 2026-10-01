@@ -11,6 +11,9 @@
         }
     },
     "AutoRefillSettings": {
+        "auto_refill_enable_indicator_icons": {
+            "value": false
+        },
         "auto_refill_enable_horbar_indicator_icons": {
             "value": false
         }
