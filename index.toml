@@ -18,7 +18,7 @@ hash = "37bdf89f3624af8bda9e5a2dfd7b5472039055199ae8e218f5d160609cdc890a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "377c3fb857c5be7c1fa2ff112592021a96508c7a72d4dc65ad5f49aef6296c8a"
+hash = "67618ed1b541041075f00d656b39ef3313e1dc7fa64eedbf2846f1957955cd9d"
 
 [[files]]
 file = "config/iris.properties"
