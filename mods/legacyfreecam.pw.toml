@@ -1,0 +1,13 @@
+name = "Freecam (Fair Play)"
+filename = "legacyfreecam-fabric-2.0.0+mc26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tWqI1yhH/versions/tW7bXP7o/legacyfreecam-fabric-2.0.0%2Bmc26.2.jar"
+hash-format = "sha512"
+hash = "467190a17547aa467a2e4b76525ca4126ed8987a78e24f4f53e9299f6a841abad12043b975bc578e4c7f65ff9d5e7efc2f4a358d2048852ef76367f7c1c9d179"
+
+[update]
+[update.modrinth]
+mod-id = "tWqI1yhH"
+version = "tW7bXP7o"
