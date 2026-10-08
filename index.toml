@@ -22,7 +22,7 @@ hash = "67618ed1b541041075f00d656b39ef3313e1dc7fa64eedbf2846f1957955cd9d"
 
 [[files]]
 file = "config/iris.properties"
-hash = "6cf8e29e20b32ce84a0fd9fd88a3e61d77caa30f7e1baccd0bf06c3a5fbae6d5"
+hash = "1c26a29f1d2ea226975181090c26d67a196f618bde33f5c942527175c4e52c27"
 
 [[files]]
 file = "mods/armor-poser.pw.toml"
@@ -183,6 +183,10 @@ metafile = true
 file = "resourcepacks/motschens-better-leaves.pw.toml"
 hash = "8dfb9c20ca9bb8ef35db6edbfbd5d4a0bebeb6c74d1a4abc62fb64e4508c1f7b"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.9.3 + EuphoriaPatches_1.10.5.txt"
+hash = "de5ce54d0476fd3d6407ee7b3dc30b198b9f7c219ca12de9db6d0c9e05755c31"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
