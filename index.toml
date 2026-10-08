@@ -10,7 +10,7 @@ hash = "12325141e47c98243c46b1a40b031945c65bd3877a969fd6a15f107272c0cc92"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "b8250b0864adca3a9cf2d7d6d1e84339e199bc27085e064393e0edfb89490774"
+hash = "c766c06ac9b8b218e3cc98f42c7867fffc897796a3a9da5baf2b028fab19906e"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -62,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9ccaa582844d45222581b90ca5ce61acf117408c635b904673e1c4d89969f40b"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "c1f2d0a1537909b2b2c37aa8576af52f21b6f52ee18048310e48ab7169b87f57"
 metafile = true
 
 [[files]]
@@ -177,11 +182,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/motschens-better-leaves.pw.toml"
 hash = "8dfb9c20ca9bb8ef35db6edbfbd5d4a0bebeb6c74d1a4abc62fb64e4508c1f7b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/visible-ores-plus.pw.toml"
-hash = "27f82f2945bf2074469d67a0cf70b0a3103750d54e279547ff7c405172ca4385"
 metafile = true
 
 [[files]]
