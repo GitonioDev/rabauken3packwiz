@@ -1,8 +1,8 @@
 name = "cat-eyes"
-filename = "CatEyes-v8_Fabric-26.2.jar"
+filename = "CatEyes-v8_Fabric-26.3.jar"
 side = "both"
 
 [download]
 url = "https://github.com/GitonioDev/rabauken3packwiz/releases/download/1.1.0/CatEyes-v8_Fabric-26.3.jar"
 hash-format = "sha256"
-hash = "ff820757d3d21744bb57e7fb742daaa2b46f722cfa0ba112b9e734560c5a0f40"
+hash = "5b0bcd57a5c0b666774fc0479751cef0825d000bc9742f1a8f7fc78384c09316"

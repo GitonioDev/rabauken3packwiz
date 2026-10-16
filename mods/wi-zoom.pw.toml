@@ -1,8 +1,8 @@
 name = "wi-zoom"
-filename = "WI-Zoom-1.7-MC26.2.jar"
+filename = "WI-Zoom-1.7-MC26.3.jar"
 side = "both"
 
 [download]
 url = "https://github.com/GitonioDev/rabauken3packwiz/releases/download/1.1.0/WI-Zoom-1.7-MC26.3.jar"
 hash-format = "sha256"
-hash = "44dd51bdec313180345f5123189c8e5f902ad8c76b8461594618b2d38c6d337f"
+hash = "dea7b28456428d2b6e63757d4ee428c5dfea410d7959394ce85033008f3b5058"

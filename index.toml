@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/cat-eyes.pw.toml"
-hash = "34f44b61cf56bcc1ae668b86bbad2b386f3e95420654be6ec3ad9e4e53ba8381"
+hash = "a03ed65e8535ef636771bb74b7ca2ae20d9af50d921fb12b4983eb58cd03dd6a"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/wi-zoom.pw.toml"
-hash = "4bbc652da8703db5027ae85395f86c88c778a03471f5928d9b93e5fb56ee00f5"
+hash = "afcc1419e601b238235a099c35f22d02223c2f77b6348f2f4b5543409ccd24f8"
 metafile = true
 
 [[files]]
